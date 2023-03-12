@@ -1,0 +1,92 @@
+footer {
+    background-color: #050202;
+    color: #fff;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  form {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  input[type="email"] {
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    width: 250px;
+    margin-right: 10px;
+    font-size: 14px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #e6579e;
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  body {
+    background-image: url("img/blackpink-ice-cream-members-uhdpaper.com-4K-7.2617.jpg");
+    background-size: cover;
+    width: 100%;
+  }
+  
+  header {
+    background-color: #050202;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin: 0 1rem;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  a:hover {
+    color: #ccc;
+  }
